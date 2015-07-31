@@ -1,0 +1,16 @@
+{
+  "name": "MeanApp",
+  "description": "Estudo MeanApp",
+  "version": "1.0.0",  
+  "private": true,
+  "main": "server.js",
+  "author": {
+	"name": "Rafael",
+	"email": "rafaelwsantos@gmail.com"
+  },
+  "dependencies" :{
+	"express"    : "latest",
+  "request"    : "latest",
+   "cheerio"    : "latest"
+  }
+}

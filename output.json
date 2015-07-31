@@ -1,0 +1,277 @@
+{
+    "title": "Partidos políticos registrados no TSE — Tribunal Superior Eleitoral",
+    "partidos": [
+        {
+            "ordem": "0001",
+            "partido": "SIGLA",
+            "dsPartido": "NOME",
+            "deferimento": "DEFERIMENTO",
+            "presidenteNacional": "PRESIDENTE NACIONAL ",
+            "numero": "Nº"
+        },
+        {
+            "ordem": "1",
+            "partido": "PMDB",
+            "dsPartido": "PARTIDO DO MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+            "deferimento": "30.6.1981",
+            "presidenteNacional": "MICHEL MIGUEL ELIAS TEMER LULIA",
+            "numero": "15"
+        },
+        {
+            "ordem": "2",
+            "partido": "PTB",
+            "dsPartido": "PARTIDO TRABALHISTA BRASILEIRO",
+            "deferimento": "3.11.1981",
+            "presidenteNacional": "CRISTIANE BRASIL",
+            "numero": "14"
+        },
+        {
+            "ordem": "3",
+            "partido": "PDT",
+            "dsPartido": "PARTIDO DEMOCRÁTICO TRABALHISTA",
+            "deferimento": "10.11.1981",
+            "presidenteNacional": "CARLOS LUPI",
+            "numero": "12"
+        },
+        {
+            "ordem": "4",
+            "partido": "PT",
+            "dsPartido": "PARTIDO DOS TRABALHADORES",
+            "deferimento": "11.2.1982",
+            "presidenteNacional": "RUI GOETHE DA COSTA FALCAO",
+            "numero": "13"
+        },
+        {
+            "ordem": "5",
+            "partido": "DEM",
+            "dsPartido": "DEMOCRATAS",
+            "deferimento": "11.9.1986",
+            "presidenteNacional": "JOSÉ AGRIPINO MAIA",
+            "numero": "25"
+        },
+        {
+            "ordem": "6",
+            "partido": "PCdoB",
+            "dsPartido": "PARTIDO COMUNISTA DO BRASIL",
+            "deferimento": "23.6.1988",
+            "presidenteNacional": "JOSÉ RENATO RABELO",
+            "numero": "65"
+        },
+        {
+            "ordem": "7",
+            "partido": "PSB",
+            "dsPartido": "PARTIDO SOCIALISTA BRASILEIRO",
+            "deferimento": "1°.7.1988",
+            "presidenteNacional": "CARLOS ROBERTO SIQUEIRA DE BARROS",
+            "numero": "40"
+        },
+        {
+            "ordem": "8",
+            "partido": "PSDB",
+            "dsPartido": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+            "deferimento": "24.8.1989",
+            "presidenteNacional": "AÉCIO NEVES DA CUNHA",
+            "numero": "45"
+        },
+        {
+            "ordem": "9",
+            "partido": "PTC",
+            "dsPartido": "PARTIDO TRABALHISTA CRISTÃO",
+            "deferimento": "22.2.1990",
+            "presidenteNacional": "DANIEL S. TOURINHO",
+            "numero": "36"
+        },
+        {
+            "ordem": "10",
+            "partido": "PSC",
+            "dsPartido": "PARTIDO SOCIAL CRISTÃO",
+            "deferimento": "29.3.1990",
+            "presidenteNacional": "VÍCTOR JORGE ABDALA NÓSSEIS",
+            "numero": "20"
+        },
+        {
+            "ordem": "11",
+            "partido": "PMN",
+            "dsPartido": "PARTIDO DA MOBILIZAÇÃO NACIONAL",
+            "deferimento": "25.10.1990",
+            "presidenteNacional": "TELMA RIBEIRO DOS SANTOS",
+            "numero": "33"
+        },
+        {
+            "ordem": "12",
+            "partido": "PRP",
+            "dsPartido": "PARTIDO REPUBLICANO PROGRESSISTA",
+            "deferimento": "29.10.1991",
+            "presidenteNacional": "OVASCO ROMA ALTIMARI RESENDE",
+            "numero": "44"
+        },
+        {
+            "ordem": "13",
+            "partido": "PPS",
+            "dsPartido": "PARTIDO POPULAR SOCIALISTA",
+            "deferimento": "19.3.1992",
+            "presidenteNacional": "ROBERTO FREIRE",
+            "numero": "23"
+        },
+        {
+            "ordem": "14",
+            "partido": "PV",
+            "dsPartido": "PARTIDO VERDE",
+            "deferimento": "30.9.1993",
+            "presidenteNacional": "JOSÉ LUIZ DE FRANÇA PENNA",
+            "numero": "43"
+        },
+        {
+            "ordem": "15",
+            "partido": "PTdoB",
+            "dsPartido": "PARTIDO TRABALHISTA DO BRASIL",
+            "deferimento": "11.10.1994",
+            "presidenteNacional": "LUIS HENRIQUE DE OLIVEIRA RESENDE",
+            "numero": "70"
+        },
+        {
+            "ordem": "16",
+            "partido": "PP",
+            "dsPartido": "PARTIDO PROGRESSISTA",
+            "deferimento": "16.11.1995",
+            "presidenteNacional": "CIRO NOGUEIRA LIMA FILHO",
+            "numero": "11"
+        },
+        {
+            "ordem": "17",
+            "partido": "PSTU",
+            "dsPartido": "PARTIDO SOCIALISTA DOS TRABALHADORES UNIFICADO",
+            "deferimento": "19.12.1995",
+            "presidenteNacional": "JOSÉ MARIA DE ALMEIDA",
+            "numero": "16"
+        },
+        {
+            "ordem": "18",
+            "partido": "PCB",
+            "dsPartido": "PARTIDO COMUNISTA BRASILEIRO",
+            "deferimento": "9.5.1996",
+            "presidenteNacional": "IVAN MARTINS PINHEIRO*",
+            "numero": "21"
+        },
+        {
+            "ordem": "19",
+            "partido": "PRTB",
+            "dsPartido": "PARTIDO RENOVADOR TRABALHISTA BRASILEIRO",
+            "deferimento": "18.2.1997",
+            "presidenteNacional": "JOSÉ LEVY FIDELIX DA CRUZ",
+            "numero": "28"
+        },
+        {
+            "ordem": "20",
+            "partido": "PHS",
+            "dsPartido": "PARTIDO HUMANISTA DA SOLIDARIEDADE",
+            "deferimento": "20.3.1997",
+            "presidenteNacional": "EDUARDO MACHADO E SILVA RODRIGUES",
+            "numero": "31"
+        },
+        {
+            "ordem": "21",
+            "partido": "PSDC",
+            "dsPartido": "PARTIDO SOCIAL DEMOCRATA CRISTÃO",
+            "deferimento": "5.8.1997",
+            "presidenteNacional": "JOSÉ MARIA EYMAEL",
+            "numero": "27"
+        },
+        {
+            "ordem": "22",
+            "partido": "PCO",
+            "dsPartido": "PARTIDO DA CAUSA OPERÁRIA",
+            "deferimento": "30.9.1997",
+            "presidenteNacional": "RUI COSTA PIMENTA",
+            "numero": "29"
+        },
+        {
+            "ordem": "23",
+            "partido": "PTN",
+            "dsPartido": "PARTIDO TRABALHISTA NACIONAL",
+            "deferimento": "2.10.1997",
+            "presidenteNacional": "JOSÉ MASCI DE ABREU",
+            "numero": "19"
+        },
+        {
+            "ordem": "24",
+            "partido": "PSL",
+            "dsPartido": "PARTIDO SOCIAL LIBERAL",
+            "deferimento": "2.6.1998",
+            "presidenteNacional": "LUCIANO CALDAS BIVAR",
+            "numero": "17"
+        },
+        {
+            "ordem": "25",
+            "partido": "PRB",
+            "dsPartido": "PARTIDO REPUBLICANO BRASILEIRO",
+            "deferimento": "25.8.2005",
+            "presidenteNacional": "MARCOS ANTONIO PEREIRA",
+            "numero": "10"
+        },
+        {
+            "ordem": "26",
+            "partido": "PSOL",
+            "dsPartido": "PARTIDO SOCIALISMO E LIBERDADE",
+            "deferimento": "15.9.2005",
+            "presidenteNacional": "RAIMUNDO LUIZ SILVA ARAÚJO",
+            "numero": "50"
+        },
+        {
+            "ordem": "27",
+            "partido": "PR",
+            "dsPartido": "PARTIDO DA REPÚBLICA",
+            "deferimento": "19.12.2006",
+            "presidenteNacional": "ALFREDO NASCIMENTO",
+            "numero": "22"
+        },
+        {
+            "ordem": "28",
+            "partido": "PSD",
+            "dsPartido": "PARTIDO SOCIAL DEMOCRÁTICO",
+            "deferimento": "27.9.2011",
+            "presidenteNacional": "GUILHERME CAMPOS JÚNIOR, no exercício da presidência",
+            "numero": "55"
+        },
+        {
+            "ordem": "29",
+            "partido": "PPL",
+            "dsPartido": "PARTIDO PÁTRIA LIVRE",
+            "deferimento": "4.10.2011",
+            "presidenteNacional": "SÉRGIO RUBENS DE ARAÚJO TORRES",
+            "numero": "54"
+        },
+        {
+            "ordem": "30",
+            "partido": "PEN",
+            "dsPartido": "PARTIDO ECOLÓGICO NACIONAL",
+            "deferimento": "19.6.2012",
+            "presidenteNacional": "ADILSON BARROSO OLIVEIRA",
+            "numero": "51"
+        },
+        {
+            "ordem": "31",
+            "partido": "PROS",
+            "dsPartido": "PARTIDO REPUBLICANO DA ORDEM SOCIAL",
+            "deferimento": "24.9.2013",
+            "presidenteNacional": "EURÍPEDES G.DE MACEDO JÚNIOR",
+            "numero": "90"
+        },
+        {
+            "ordem": "32",
+            "partido": "SD",
+            "dsPartido": "SOLIDARIEDADE",
+            "deferimento": "24.9.2013",
+            "presidenteNacional": "PAULO PEREIRA DA SILVA",
+            "numero": "77"
+        },
+        {
+            "ordem": "(*) Nos termos do § 1º do art. 58 do estatuto do PCB, para fins jurídicos e institucionais, os cargos de Secretário Geral do Comitê Central e de Secretário Político dos Comitês Regionais e Municipais equiparam-se ao de Presidente do Comitê respectivo.",
+            "partido": "",
+            "dsPartido": "",
+            "deferimento": "",
+            "presidenteNacional": "",
+            "numero": ""
+        }
+    ]
+}
